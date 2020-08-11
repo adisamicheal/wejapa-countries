@@ -3,11 +3,11 @@
       <header>
         <img src="../assets/wejapa.png" alt="wejap-logo" class="logo" loading="lazy"> 
         <p class="title"><span class="wejapa">Wejapa</span> Countries</p>
-        <audio controls>
+        <!-- <audio controls>
             <source src="../assets/japa.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
-        <p>Song by Naira Marley (President Marlian Nation).</p>
+        <p>Song by Naira Marley (President Marlian Nation).</p> -->
       </header>
       <div class="country_display">    
         <section>
