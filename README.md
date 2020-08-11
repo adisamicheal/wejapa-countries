@@ -1,4 +1,6 @@
 # wejapa-countries
+Wejapa country directories, enjoy!!!
+Spolier alert: Marlians get prepared 😁!
 
 ## Project setup
 ```
